@@ -1,7 +1,11 @@
+body{
+    margin:0px;
+}
+
 .top-banner{
     background-image: url("images/header-bg.png");
     height: 500px;
-    width: 88%;
+    width: 85%;
     background-position:left;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -12,7 +16,7 @@
 .about-backpage{
     background-image: url("images/about-bg.png");
     height: 500px;
-    width: 88%;
+    width: 85%;
     background-position:left;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -23,7 +27,7 @@
 .work-area{
     background-image: url("images/latest-work-bg.png");
     height: 500px;
-    width: 88%;
+    width: 85%;
     background-position:left;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -33,7 +37,7 @@
 .ending-area{
     background-image: url("images/footer-bg.png");
     height: 500px;
-    width: 88%;
+    width: 85%;
     background-position:left;
     background-repeat: no-repeat;
     background-size: 100%;
